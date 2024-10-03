@@ -6,10 +6,9 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Dine</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Savor alien-inspired dishes at Tequila Moonrise, where every plate is a work of art. Enjoy breathtaking space-themed decor and cosmic views as you dine. Our unique atmosphere and flavors make each meal an unforgettable journey.
           </p>
         </div>
         <div className="row">

@@ -221,6 +221,7 @@ a:focus,
 .intro h1 {
   font-family: "Raleway", sans-serif;
   color: #101010;
+  color: #fff;
   font-size: 82px;
   font-weight: 700;
   text-transform: uppercase;
@@ -246,7 +247,7 @@ header .intro-text {
 }
 /* Features Section */
 #features {
-  background: #f6f6f6;
+  background: #101010;
 }
 #features i.fa {
   font-size: 38px;

@@ -14,7 +14,7 @@
     "Why2": [
       "Memorable Events",
       "Sustainable Practices",
-      "Immersive Space-Themed Atmosphere",
+      "Space-Themed Atmosphere",
       "Exclusive Culinary Events"
     ]
   },
@@ -150,9 +150,9 @@
 }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Tequila Moonrise, Lunar Crater Lane, Moon Base Alpha, Sector 7",
+    "phone": "+00 737 888 0928",
+    "email": "tequilamoonrisecontact@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -160,23 +160,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "WALA",
+      "text": "Place holder."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "PA",
+      "text": "Place holder."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "DITO",
+      "text": "Place holder."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": ":(",
+      "text": "Place holder."
     }
   ]
 }

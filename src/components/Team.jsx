@@ -7,8 +7,7 @@ export const Team = (props) => {
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Meet the Team</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Get to know the visionary creators behind Tequila Moonrise, where innovation meets cosmic inspiration to bring you an unforgettable space-themed dining and hospitality experience.
           </p>
         </div>
         <div id="row">
